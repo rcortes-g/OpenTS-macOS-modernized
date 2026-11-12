@@ -1,32 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OpenTS-Developers/.github/main/assets/opents-logo.png" alt="OpenTS" width="512">
-</p>
-
-<p align="center">
-  <a href="https://github.com/OpenTS-Developers/OpenTS/releases"><img src="https://img.shields.io/github/downloads/OpenTS-Developers/OpenTS/total?label=downloads" alt="Downloads"></a>
-  <a href="https://github.com/OpenTS-Developers/OpenTS/actions/workflows/engine.yml"><img src="https://github.com/OpenTS-Developers/OpenTS/actions/workflows/engine.yml/badge.svg" alt="Engine build"></a>
-  <a href="https://opents-developers.github.io/OpenTS/"><img src="https://github.com/OpenTS-Developers/OpenTS/actions/workflows/manual-pages.yml/badge.svg" alt="Manual"></a>
-  <a href="https://www.patreon.com/c/ZivDero"><img src="https://img.shields.io/badge/Patreon-ZivDero-F96854?logo=patreon&logoColor=white" alt="Patreon"></a>
-</p>
-
-# OpenTS
-
-OpenTS is a community-led, open-source reconstruction of *Command & Conquer:
-Tiberian Sun*. Instead of patching or extending the retail executable, it
-rebuilds the engine as a standalone program. For more information about
-this project, please visit the OpenTS Repository
-
-# OpenTS-macos-ios
-
-Is a fork from the original OpenTS project with a build process for Mac and iOS. 
-
-This fork carries native Apple Silicon builds of that engine for **macOS and
-iOS**. The iPad build is played by touch: it has no mouse pointer, a gesture
-layer in place of one, and an on-screen indicator that reports the mode the
-cursor would otherwise have shown.
-
-For more information about the project please visit the fork's 
-repository at [here](https://github.com/msnow345/OpenTS-macOS-iOS).
+# OPEN TS MODERNIZED
 
 ## ABOUT THIS FORK
 
@@ -46,12 +18,30 @@ To-do
 * Implement battlefield zooming while keeping the UI scaled correctly. 
 Currently playing at high resolutions makes unit control very difficult.
 
-## AI DISCLAIMER
+# AI DISCLAIMER
 
 100% of the code for the modifications has been written by CODEX from OpenAI. 
 I do not take any credit for it other than guidance and review to
 ensure the features behaves as intended while keeping the essence of a game I love.
 
+# OpenTS
+
+OpenTS is a community-led, open-source reconstruction of *Command & Conquer:
+Tiberian Sun*. Instead of patching or extending the retail executable, it
+rebuilds the engine as a standalone program. For more information about
+this project, please visit the OpenTS Repository
+
+# OpenTS-macos-ios
+
+Is a fork from the original OpenTS project with a build process for Mac and iOS. 
+
+This fork carries native Apple Silicon builds of that engine for **macOS and
+iOS**. The iPad build is played by touch: it has no mouse pointer, a gesture
+layer in place of one, and an on-screen indicator that reports the mode the
+cursor would otherwise have shown.
+
+For more information about the project please visit the fork's 
+repository at [here](https://github.com/msnow345/OpenTS-macOS-iOS).
 
 ## Running on macOS
 
