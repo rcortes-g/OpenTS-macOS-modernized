@@ -7,16 +7,13 @@ about running on any device other than mine. The goal was to modernize the
 Tiberian Sun engine with Quality-of-Life improvements from other games like 
 Red Alert 2 and C&C Remastered. 
 
-Some of the changes implemented are:
+Some of the changes to implement are:
 * Fixes UI and drawing bugs (like the turret on the Titan
 * High-res voxel rendering (all credit to the Tiberian Sun Recompilation project)
 * Different production queues for Factories, Support/Defense, Infantry and Vehicles like in Red Alert 2
 * In-game (single player only) cheats menu (No damage, reveal map, money, build anywhere)
 * Restore some missing animations and art
-
-To-do
-* Implement battlefield zooming while keeping the UI scaled correctly. 
-Currently playing at high resolutions makes unit control very difficult.
+* Implement battlefield zooming while keeping the UI scaled correctly.  Currently playing at high resolutions makes unit control very difficult.
 
 # AI DISCLAIMER
 
